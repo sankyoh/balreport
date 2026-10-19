@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use balreport, please cite this software using the metadata below."
+type: software
+title: "balreport: Two-group descriptive statistics and covariate balance report for Stata"
+version: "1.1.0"
+authors:
+  - family-names: Mitsuhashi
+    given-names: Toshiharu
+    alias: sankyoh
+    website: "https://github.com/sankyoh"
+repository-code: "https://github.com/sankyoh/balreport"
+license: MIT
+keywords:
+  - Stata
+  - covariate balance
+  - descriptive statistics
+  - weighted quantiles
+  - standardized mean difference
+abstract: >-
+  A standalone Stata command for two-group descriptive statistics and balance
+  reporting. Continuous summaries include mean (SD) and median (Q1, Q3);
+  categorical summaries include counts and percentages. Supports weighted
+  quantiles, SMD, variance ratios, Excel export and configurable precision.
+# Add date-released and a DOI only after the actual release is published.

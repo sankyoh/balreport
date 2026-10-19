@@ -1,0 +1,17 @@
+v 3
+d 'balreport': Two-group descriptive statistics and covariate balance report
+d
+d Continuous summaries: mean (SD) and median (Q1, Q3).
+d Categorical summaries: N (%); diagnostics: SMD and variance ratio.
+d Supports weighted percentiles, Excel export and configurable precision.
+d Requires Stata 18 or later; no community-contributed dependencies.
+d
+d Author: Toshiharu Mitsuhashi
+d License: MIT
+d GitHub: https://github.com/sankyoh/balreport
+d Version: 1.1.0
+d Distribution-Date: 20261019
+d
+f balreport.ado
+f balreport.sthlp
+f sample.do

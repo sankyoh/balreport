@@ -1,0 +1,7 @@
+v 3
+d balreport: Two-group descriptive statistics and covariate balance report
+d
+d Author: Toshiharu Mitsuhashi
+d GitHub: https://github.com/sankyoh/balreport
+d
+p balreport Two-group descriptive statistics and covariate balance report

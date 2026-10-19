@@ -37,9 +37,12 @@ StataとMataの標準機能だけを使います。`covbalx`、`covbal`、`swbin
 GitHubの `sankyoh/balreport` リポジトリから、次のコマンドでインストールできます。
 
 ```stata
-net set ado PLUS
 net install balreport, from("https://raw.githubusercontent.com/sankyoh/balreport/main/stata/") replace
-capture program drop balreport
+```
+
+インストールが正常にできたかどうかは、下記のコマンドで確認できます。
+
+``` stata
 which balreport
 help balreport
 ```

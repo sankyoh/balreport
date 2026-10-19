@@ -1,0 +1,20 @@
+# Stata and spreadsheet outputs (examples use only the bundled auto dataset)
+*.log
+*.smcl
+*.dta
+*.xlsx
+*.xls
+*.stswp
+*.tmp
+stata.trk
+stata.dir
+balreport_example_output/
+
+# Editor and operating-system files
+*~
+*.bak
+*.swp
+~$*
+.DS_Store
+Thumbs.db
+Desktop.ini
